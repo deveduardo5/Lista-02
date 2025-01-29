@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D33C646-0EDD-4C67-A0DD-DC813501A2F2}|Ex1\\Ex1.csproj|c:\\users\\eduardo.asouza23\\source\\repos\\lista 02 - c# - while, do while e for\\ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D33C646-0EDD-4C67-A0DD-DC813501A2F2}|Ex1\\Ex1.csproj|solutionrelative:ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A24C75-577C-44D3-908F-CABE036D4729}|Ex10\\Ex10.csproj|c:\\users\\eduardo.asouza23\\source\\repos\\lista 02 - c# - while, do while e for\\ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A24C75-577C-44D3-908F-CABE036D4729}|Ex10\\Ex10.csproj|solutionrelative:ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDF9DA3-DBB8-4795-BA18-3EB133505E2D}|Ex9\\Ex9.csproj|c:\\users\\eduardo.asouza23\\source\\repos\\lista 02 - c# - while, do while e for\\ex9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDF9DA3-DBB8-4795-BA18-3EB133505E2D}|Ex9\\Ex9.csproj|solutionrelative:ex9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D7862D-0068-4141-875E-3D8A34480D0A}|Ex8\\Ex8.csproj|c:\\users\\eduardo.asouza23\\source\\repos\\lista 02 - c# - while, do while e for\\ex8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D7862D-0068-4141-875E-3D8A34480D0A}|Ex8\\Ex8.csproj|solutionrelative:ex8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BBF865-805F-408E-934B-A531A4FED9CB}|Ex7\\Ex7.csproj|c:\\users\\eduardo.asouza23\\source\\repos\\lista 02 - c# - while, do while e for\\ex7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BBF865-805F-408E-934B-A531A4FED9CB}|Ex7\\Ex7.csproj|solutionrelative:ex7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BB239B-C113-42A8-BB07-1E0632D39BA3}|Ex6\\Ex6.csproj|c:\\users\\eduardo.asouza23\\source\\repos\\lista 02 - c# - while, do while e for\\ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BB239B-C113-42A8-BB07-1E0632D39BA3}|Ex6\\Ex6.csproj|solutionrelative:ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC8846-6CE4-4DD1-A5E6-02FD2DC86AB4}|Ex5\\Ex5.csproj|c:\\users\\eduardo.asouza23\\source\\repos\\lista 02 - c# - while, do while e for\\ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC8846-6CE4-4DD1-A5E6-02FD2DC86AB4}|Ex5\\Ex5.csproj|solutionrelative:ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341C4A55-BCBC-4A74-A19D-79243367D93A}|Ex4\\Ex4.csproj|c:\\users\\eduardo.asouza23\\source\\repos\\lista 02 - c# - while, do while e for\\ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341C4A55-BCBC-4A74-A19D-79243367D93A}|Ex4\\Ex4.csproj|solutionrelative:ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9300DA2-1226-4E6B-A64D-614CD758ACE7}|Ex3\\Ex3.csproj|c:\\users\\eduardo.asouza23\\source\\repos\\lista 02 - c# - while, do while e for\\ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9300DA2-1226-4E6B-A64D-614CD758ACE7}|Ex3\\Ex3.csproj|solutionrelative:ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18720ECC-2EB4-4F36-A323-312862B8362E}|Ex2\\Ex2.csproj|c:\\users\\eduardo.asouza23\\source\\repos\\lista 02 - c# - while, do while e for\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18720ECC-2EB4-4F36-A323-312862B8362E}|Ex2\\Ex2.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210D99F4-B111-4B9B-A515-02A306C5CF99}|Lista 02 - C# - While, do While e for\\Lista 02 - C# - While, do While e for.csproj|c:\\users\\eduardo.asouza23\\source\\repos\\lista 02 - c# - while, do while e for\\lista 02 - c# - while, do while e for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210D99F4-B111-4B9B-A515-02A306C5CF99}|Lista 02 - C# - While, do While e for\\Lista 02 - C# - While, do While e for.csproj|solutionrelative:lista 02 - c# - while, do while e for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\Ex10\\Program.cs",
+              "RelativeDocumentMoniker": "Ex10\\Program.cs",
+              "ToolTip": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\Ex10\\Program.cs",
+              "RelativeToolTip": "Ex10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:25:36.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\Ex9\\Program.cs",
+              "RelativeDocumentMoniker": "Ex9\\Program.cs",
+              "ToolTip": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\Ex9\\Program.cs",
+              "RelativeToolTip": "Ex9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:18:28.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\Ex8\\Program.cs",
+              "RelativeDocumentMoniker": "Ex8\\Program.cs",
+              "ToolTip": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\Ex8\\Program.cs",
+              "RelativeToolTip": "Ex8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:16:58.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\Ex7\\Program.cs",
+              "RelativeDocumentMoniker": "Ex7\\Program.cs",
+              "ToolTip": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\Ex7\\Program.cs",
+              "RelativeToolTip": "Ex7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:15:45.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\Ex6\\Program.cs",
+              "RelativeDocumentMoniker": "Ex6\\Program.cs",
+              "ToolTip": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\Ex6\\Program.cs",
+              "RelativeToolTip": "Ex6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:14:26.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\Ex5\\Program.cs",
+              "RelativeDocumentMoniker": "Ex5\\Program.cs",
+              "ToolTip": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\Ex5\\Program.cs",
+              "RelativeToolTip": "Ex5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:13:06.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\Ex4\\Program.cs",
+              "RelativeDocumentMoniker": "Ex4\\Program.cs",
+              "ToolTip": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\Ex4\\Program.cs",
+              "RelativeToolTip": "Ex4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:11:01.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\Ex3\\Program.cs",
+              "RelativeDocumentMoniker": "Ex3\\Program.cs",
+              "ToolTip": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\Ex3\\Program.cs",
+              "RelativeToolTip": "Ex3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:09:52.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\Ex2\\Program.cs",
+              "RelativeDocumentMoniker": "Ex2\\Program.cs",
+              "ToolTip": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\Ex2\\Program.cs",
+              "RelativeToolTip": "Ex2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:08:20.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\Ex1\\Program.cs",
+              "RelativeDocumentMoniker": "Ex1\\Program.cs",
+              "ToolTip": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\Ex1\\Program.cs",
+              "RelativeToolTip": "Ex1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:06:56.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\Lista 02 - C# - While, do While e for\\Program.cs",
+              "RelativeDocumentMoniker": "Lista 02 - C# - While, do While e for\\Program.cs",
+              "ToolTip": "C:\\Users\\eduardo.asouza23\\source\\repos\\Lista 02 - C# - While, do While e for\\Lista 02 - C# - While, do While e for\\Program.cs",
+              "RelativeToolTip": "Lista 02 - C# - While, do While e for\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:04:51.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
