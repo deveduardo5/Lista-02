@@ -1,0 +1,15 @@
+C:\Users\eduardo.asouza23\source\repos\Lista 02 - C# - While, do While e for\Ex1\obj\Debug\net8.0\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.asouza23\source\repos\Lista 02 - C# - While, do While e for\Ex1\obj\Debug\net8.0\Ex1.AssemblyInfoInputs.cache
+C:\Users\eduardo.asouza23\source\repos\Lista 02 - C# - While, do While e for\Ex1\obj\Debug\net8.0\Ex1.AssemblyInfo.cs
+C:\Users\eduardo.asouza23\source\repos\Lista 02 - C# - While, do While e for\Ex1\obj\Debug\net8.0\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.asouza23\source\repos\Lista 02 - C# - While, do While e for\Ex1\obj\Debug\net8.0\Ex1.sourcelink.json
+C:\Users\eduardo.asouza23\source\repos\Lista 02 - C# - While, do While e for\Ex1\bin\Debug\net8.0\Ex1.exe
+C:\Users\eduardo.asouza23\source\repos\Lista 02 - C# - While, do While e for\Ex1\bin\Debug\net8.0\Ex1.deps.json
+C:\Users\eduardo.asouza23\source\repos\Lista 02 - C# - While, do While e for\Ex1\bin\Debug\net8.0\Ex1.runtimeconfig.json
+C:\Users\eduardo.asouza23\source\repos\Lista 02 - C# - While, do While e for\Ex1\bin\Debug\net8.0\Ex1.dll
+C:\Users\eduardo.asouza23\source\repos\Lista 02 - C# - While, do While e for\Ex1\bin\Debug\net8.0\Ex1.pdb
+C:\Users\eduardo.asouza23\source\repos\Lista 02 - C# - While, do While e for\Ex1\obj\Debug\net8.0\Ex1.dll
+C:\Users\eduardo.asouza23\source\repos\Lista 02 - C# - While, do While e for\Ex1\obj\Debug\net8.0\refint\Ex1.dll
+C:\Users\eduardo.asouza23\source\repos\Lista 02 - C# - While, do While e for\Ex1\obj\Debug\net8.0\Ex1.pdb
+C:\Users\eduardo.asouza23\source\repos\Lista 02 - C# - While, do While e for\Ex1\obj\Debug\net8.0\Ex1.genruntimeconfig.cache
+C:\Users\eduardo.asouza23\source\repos\Lista 02 - C# - While, do While e for\Ex1\obj\Debug\net8.0\ref\Ex1.dll
